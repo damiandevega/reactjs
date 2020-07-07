@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Radium from 'radium';
 import './App.css';
 import Person from './Person/Person';
 
@@ -101,4 +100,4 @@ class App extends Component {
   }
 }
 
-export default Radium(App);
+export default App;
